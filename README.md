@@ -1,4 +1,4 @@
 pizzaparty
 ==========
 
-My first pizza party
+This is my first time using github
